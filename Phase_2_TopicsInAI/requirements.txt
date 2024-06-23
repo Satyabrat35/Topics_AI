@@ -1,0 +1,16 @@
+pandas
+numpy
+os
+torch
+nltk 
+transformers
+spacy
+collections
+en_core_web_sm
+sklearn
+xgboost
+pylab
+scipy
+seaborn
+matplotlib
+itertools
